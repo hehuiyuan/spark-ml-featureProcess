@@ -1,5 +1,5 @@
 # spark机器学习库评估指标总结
-## 回归评估指标
+## 1 回归评估指标
 <table>
     <tr>
         <td></td>
@@ -53,7 +53,7 @@ def evaluate(dataset: Dataset[_]): Double
 ### 1.3	 评估效果图
 如下图所示<br>
 ![](img/lr.png)
-#### 2	分类评估指标
+## 2	分类评估指标
 ### 2.1	 二元分类
  
 <table>
